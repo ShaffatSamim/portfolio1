@@ -179,9 +179,6 @@ header{
 .last{
     display: flex;
     background-color: #FFF8F3;
-    /* width: 1600px; */
-    /* height: 780px; */
-    /* margin: 113px; */
     padding: 200px;
 }
 .cen{
@@ -210,7 +207,7 @@ header{
 }
 .end{
     font-size: 16px;
-    font-size: 400;
+    font-weight: 400;
     color: #474747;
     margin-right: 117px;
 }
